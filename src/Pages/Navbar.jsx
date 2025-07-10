@@ -1,5 +1,5 @@
 "use client";
-import { Navbar, NavBody, NavItems, MobileNav, NavbarLogo, NavbarButton, MobileNavHeader, MobileNavToggle, MobileNavMenu } from "../Components/Shared/Navbar";
+import { Navbar, NavBody, NavItems, MobileNav, NavbarLogo, NavbarButton, MobileNavHeader, MobileNavToggle, MobileNavMenu } from "../Components/Shared/navbar";
 import { useState } from "react";
 
 export function NavbarDemo() {
